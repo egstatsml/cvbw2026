@@ -1,12 +1,14 @@
-# main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Important Dates"
+    url: "#important"
+  - title: "Call for papers"
+    url: "#call_for_papers"
+  - title: "Invited Speakers"
+    url: "#invited"
+  - title: "Program"
+    url: "#program"
+  - title: "Organising Team"
+    url: "#organising"
+  - title: "Contact"
+    url: "#contact"
+  
